@@ -29,10 +29,10 @@ export default function CreateUser() {
                     </VStack>
 
                     <Flex mt={8} justify="flex-end">
-                         <HStack spacing={4}>
-                          <Button colorScheme='whiteAlpha'>Cancelar</Button>
-                          <Button colorScheme='pink'>Salvar</Button>
-                         </HStack>
+                        <HStack spacing={4}>
+                            <Button colorScheme='whiteAlpha'>Cancelar</Button>
+                            <Button colorScheme='pink'>Salvar</Button>
+                        </HStack>
                     </Flex>
                 </Box>
             </Flex>
